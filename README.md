@@ -1,2 +1,3 @@
 # Python-Learning
-print() statements practice 
+1. print() statements practice. 
+2. String concatenation and n working process practice.
