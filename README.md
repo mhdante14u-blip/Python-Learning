@@ -1,2 +1,2 @@
 # Python-Learning
-Practiced print() statements 
+print() statements practice 
